@@ -1,6 +1,5 @@
 ## Ooi, eu sou o Nícola Bispo
 
-- 🌱 Estudando Web Front-End & React
 
 <div>
   <a href="https://github.com/nickbispo">
